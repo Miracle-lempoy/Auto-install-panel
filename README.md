@@ -7,7 +7,7 @@
 ## Command Install :
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/Miracle-lempoy/Pterodactyl-Theme-Autoinstaller/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/Miracle-lempoy/ Auto-install-panel/main/install.sh)
 ```
 
 ## Fitur Tools :
